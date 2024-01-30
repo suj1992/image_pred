@@ -7,6 +7,7 @@ tqdm
 geopandas
 shapely
 simplekml
+opencv-python
 # YOLOv5 requirements
 # Usage: pip install -r requirements.txt
 
