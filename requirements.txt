@@ -1,7 +1,7 @@
 streamlit
 exif
 #threading
-shutils
+#shutils
 pandas
 tqdm
 geopandas
